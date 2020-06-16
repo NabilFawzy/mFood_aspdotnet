@@ -1,0 +1,8 @@
+F:\.netCore\mFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+F:\.netCore\mFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+F:\.netCore\mFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+F:\.netCore\mFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+F:\.netCore\mFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+F:\.netCore\mFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+F:\.netCore\mFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+F:\.netCore\mFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb

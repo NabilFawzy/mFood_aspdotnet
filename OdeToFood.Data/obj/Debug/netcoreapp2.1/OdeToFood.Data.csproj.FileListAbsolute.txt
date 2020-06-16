@@ -1,0 +1,14 @@
+F:\.netCore\mFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+F:\.netCore\mFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+F:\.netCore\mFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+F:\.netCore\mFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+F:\.netCore\mFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+F:\.netCore\mFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+F:\.netCore\mFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+F:\.netCore\mFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
+F:\.netCore\mFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+F:\.netCore\mFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
+F:\.netCore\mFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
+F:\.netCore\mFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
+F:\.netCore\mFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
+F:\.netCore\mFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
